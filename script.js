@@ -8,7 +8,7 @@ const person = {
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
 //players.push("Dhoni");
 let team = players;
-team[3] = ["Dhoni"];
+team[3] = "Dhoni";
 let team1 = players;
 // players.forEach((elem) =>{
 // 	team1.push(elem);
