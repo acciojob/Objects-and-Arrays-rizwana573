@@ -13,7 +13,7 @@ let team1 = players;
 // players.forEach((elem) =>{
 // 	team1.push(elem);
 // });
-team1 = ["Riz"];
+//team1 = ["Riz"];
 let cap1 = person;
 cap1={
 	name: "Accio Job"
