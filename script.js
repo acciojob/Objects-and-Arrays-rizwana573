@@ -17,15 +17,14 @@ players.forEach((elem) =>{
 let cap1 = [];
 cap1={
 	name:person.name,
-	age:person.age
+	age=person.age
 }
-window.person.name = "Accio Job"; 
-window.cap1.age = 25; 
-
 
 window.players = players;
 window.person = person;
 window.team = team;
 window.team1 = team1;
 window.cap1 = cap1;
+window.person.name = "Accio Job"; 
+window.cap1.age = 25; 
 
