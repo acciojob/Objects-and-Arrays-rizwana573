@@ -15,12 +15,13 @@ players.forEach((elem) =>{
 });
 //team1 = ["Riz"];
 let cap1 = person;
-cap1={
-	name: "Accio Job"
-};
 
 window.players = players;
 window.person = person;
 window.team = team;
 window.team1 = team1;
 window.cap1 = cap1;
+cap1={
+	name: "Accio Job"
+};
+
