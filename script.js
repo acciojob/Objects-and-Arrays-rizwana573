@@ -6,8 +6,12 @@ const person = {
 };
 
 // Write your code here, make sure the name of variables is exactly same as mentioned in the problem statement
-let team = players[2];
-let team1 = players;
+//players.push("Dhoni");
+let team = players[3] = "Dhoni";
+let team1 = [];
+players.forEach((elem) =>{
+	team1.push(elem);
+});
 let cap1 = person;
 
 window.players = players;
