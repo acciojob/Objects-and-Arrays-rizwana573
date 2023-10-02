@@ -13,6 +13,7 @@ players.forEach((elem) =>{
 	team1.push(elem);
 });
 let cap1 = person;
+cap1.name="Accio Job";
 
 window.players = players;
 window.person = person;
