@@ -9,10 +9,10 @@ const person = {
 //players.push("Dhoni");
 let team = players;
 team[3] = "Dhoni";
-let team1 = players;
-// players.forEach((elem) =>{
-// 	team1.push(elem);
-// });
+let team1 = [];
+players.forEach((elem) =>{
+	team1.push(elem);
+});
 //team1 = ["Riz"];
 let cap1 = person;
 cap1={
